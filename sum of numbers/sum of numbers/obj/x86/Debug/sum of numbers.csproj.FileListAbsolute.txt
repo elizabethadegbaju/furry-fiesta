@@ -1,0 +1,4 @@
+c:\users\adeotun\documents\visual studio 2010\Projects\sum of numbers\sum of numbers\bin\Debug\sum of numbers.exe
+c:\users\adeotun\documents\visual studio 2010\Projects\sum of numbers\sum of numbers\bin\Debug\sum of numbers.pdb
+c:\users\adeotun\documents\visual studio 2010\Projects\sum of numbers\sum of numbers\obj\x86\Debug\sum of numbers.exe
+c:\users\adeotun\documents\visual studio 2010\Projects\sum of numbers\sum of numbers\obj\x86\Debug\sum of numbers.pdb

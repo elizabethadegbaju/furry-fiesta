@@ -1,0 +1,6 @@
+c:\users\adeotun\documents\visual studio 2015\Projects\CGPA_calc\CGPA_calc\bin\Debug\CGPA_calc.exe.config
+c:\users\adeotun\documents\visual studio 2015\Projects\CGPA_calc\CGPA_calc\bin\Debug\CGPA_calc.exe
+c:\users\adeotun\documents\visual studio 2015\Projects\CGPA_calc\CGPA_calc\bin\Debug\CGPA_calc.pdb
+c:\users\adeotun\documents\visual studio 2015\Projects\CGPA_calc\CGPA_calc\obj\Debug\GPA_calc.csprojResolveAssemblyReference.cache
+c:\users\adeotun\documents\visual studio 2015\Projects\CGPA_calc\CGPA_calc\obj\Debug\CGPA_calc.exe
+c:\users\adeotun\documents\visual studio 2015\Projects\CGPA_calc\CGPA_calc\obj\Debug\CGPA_calc.pdb

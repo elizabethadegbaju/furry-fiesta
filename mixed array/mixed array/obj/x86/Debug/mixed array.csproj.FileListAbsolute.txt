@@ -1,0 +1,4 @@
+c:\users\adeotun\documents\visual studio 2010\Projects\mixed array\mixed array\bin\Debug\mixed array.exe
+c:\users\adeotun\documents\visual studio 2010\Projects\mixed array\mixed array\bin\Debug\mixed array.pdb
+c:\users\adeotun\documents\visual studio 2010\Projects\mixed array\mixed array\obj\x86\Debug\mixed array.exe
+c:\users\adeotun\documents\visual studio 2010\Projects\mixed array\mixed array\obj\x86\Debug\mixed array.pdb

@@ -1,0 +1,1 @@
+c:\users\adeotun\documents\visual studio 2015\Projects\CGPA_calc\CGPA_calc\bin\Debug\CGPA_calc.exe.config

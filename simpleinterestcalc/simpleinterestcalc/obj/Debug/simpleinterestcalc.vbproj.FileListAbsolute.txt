@@ -1,0 +1,11 @@
+c:\users\adeotun\documents\visual studio 2015\Projects\simpleinterestcalc\simpleinterestcalc\bin\Debug\simpleinterestcalc.exe.config
+c:\users\adeotun\documents\visual studio 2015\Projects\simpleinterestcalc\simpleinterestcalc\bin\Debug\simpleinterestcalc.exe
+c:\users\adeotun\documents\visual studio 2015\Projects\simpleinterestcalc\simpleinterestcalc\bin\Debug\simpleinterestcalc.pdb
+c:\users\adeotun\documents\visual studio 2015\Projects\simpleinterestcalc\simpleinterestcalc\bin\Debug\simpleinterestcalc.xml
+c:\users\adeotun\documents\visual studio 2015\Projects\simpleinterestcalc\simpleinterestcalc\obj\Debug\simpleinterestcalc.vbprojResolveAssemblyReference.cache
+c:\users\adeotun\documents\visual studio 2015\Projects\simpleinterestcalc\simpleinterestcalc\obj\Debug\simpleinterestcalc.Form1.resources
+c:\users\adeotun\documents\visual studio 2015\Projects\simpleinterestcalc\simpleinterestcalc\obj\Debug\simpleinterestcalc.Resources.resources
+c:\users\adeotun\documents\visual studio 2015\Projects\simpleinterestcalc\simpleinterestcalc\obj\Debug\simpleinterestcalc.vbproj.GenerateResource.Cache
+c:\users\adeotun\documents\visual studio 2015\Projects\simpleinterestcalc\simpleinterestcalc\obj\Debug\simpleinterestcalc.exe
+c:\users\adeotun\documents\visual studio 2015\Projects\simpleinterestcalc\simpleinterestcalc\obj\Debug\simpleinterestcalc.xml
+c:\users\adeotun\documents\visual studio 2015\Projects\simpleinterestcalc\simpleinterestcalc\obj\Debug\simpleinterestcalc.pdb

@@ -1,0 +1,5 @@
+c:\users\adeotun\documents\visual studio 2010\Projects\error rate\error rate\bin\Debug\error rate.exe
+c:\users\adeotun\documents\visual studio 2010\Projects\error rate\error rate\bin\Debug\error rate.pdb
+c:\users\adeotun\documents\visual studio 2010\Projects\error rate\error rate\obj\x86\Debug\error rate.exe
+c:\users\adeotun\documents\visual studio 2010\Projects\error rate\error rate\obj\x86\Debug\error rate.pdb
+C:\Users\Adeotun\Documents\Visual Studio 2010\Projects\error rate\error rate\obj\x86\Debug\error rate.csprojResolveAssemblyReference.cache
